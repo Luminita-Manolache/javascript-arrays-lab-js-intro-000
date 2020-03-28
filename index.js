@@ -48,3 +48,4 @@ function removeFirstKitten() {
   newKitt = kittens.slice(1);
   return newKitt;
 }
+
